@@ -2,4 +2,4 @@
 
 
 def main() -> None:
-    print("Hello from litenv!")
+    print("Hello from liteenv!")

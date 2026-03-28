@@ -1,1 +1,1 @@
-"""Test suite for LitEnv."""
+"""Test suite for LiteEnv."""
